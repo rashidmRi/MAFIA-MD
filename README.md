@@ -6,7 +6,7 @@
   </div>
   
 
-<a><img src='https://files.catbox.moe/41c4ki.jpg'/></a>
+<a><img src='https://files.catbox.moe/7nf8cb.jpg'/></a>
 <h1 align="center"> 🅼🅰︎🅵🅸🅰︎ 🅼🅳 </h1> 
 <p align="center">ᴍᴀғɪᴀ ᴍᴅ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ</p>
 
@@ -23,7 +23,7 @@
 ----
 
 <img src="" height="100" width="100%">
-<img src="https://files.catbox.moe/7nf8cb.jpg" height="110" width="100%">
+<img src="" height="110" width="100%">
 
 **`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`**
 
