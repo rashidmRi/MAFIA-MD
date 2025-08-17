@@ -22,8 +22,8 @@
   
 ----
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="110" width="100%">
+<img src="" height="100" width="100%">
+<img src="https://files.catbox.moe/7nf8cb.jpg" height="110" width="100%">
 
 **`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`**
 
