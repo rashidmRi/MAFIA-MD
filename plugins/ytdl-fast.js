@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> Powered By JawadTechX ❤️`;
+> ᴘᴏᴡᴇʀᴅ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ❤️`;
 
         // Send video directly with caption
         await conn.sendMessage(
@@ -53,6 +53,7 @@ cmd({
         reply("An error occurred. Please try again later.");
     }
 });
+
 
 // MP3 song download 
 
@@ -89,8 +90,8 @@ cmd({
             body: "Join our WhatsApp Channel",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j',
-            mediaUrl: 'https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j',
+            sourceUrl: 'https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R',
+            mediaUrl: 'https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R',
             showAdAttribution: true,
             renderLargerThumbnail: true
         }
