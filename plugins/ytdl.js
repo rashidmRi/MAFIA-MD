@@ -1,4 +1,3 @@
-const config = require('../config');
 const { cmd } = require('../command');
 const DY_SCRAP = require('@dark-yasiya/scrap');
 const dy_scrap = new DY_SCRAP();
@@ -44,7 +43,7 @@ cmd({
             `🔽 *Reply with your choice:*\n` +
             `1.1 *Audio Type* 🎵\n` +
             `1.2 *Document Type* 📁\n\n` +
-            `${config.FOOTER || "𓆩MAFIA-ADEEL𓆪"}`;
+            `${config.FOOTER || "𝙼𝙰𝙵𝙸𝙰 𝙰𝙳𝙴𝙴𝙻"}`;
 
         const sentMsg = await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
         const messageID = sentMsg.key.id;
