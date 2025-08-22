@@ -54,7 +54,6 @@ cmd({
     }
 });
 
-
 // MP3 song download 
 
 cmd({ 
@@ -87,13 +86,13 @@ cmd({
     contextInfo: {
         externalAdReply: {
             title: song.title.length > 25 ? `${song.title.substring(0, 22)}...` : song.title,
-            body: "Join our WhatsApp Channel",
+            body: "MAFIA ADEEL",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
             sourceUrl: 'https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R',
             mediaUrl: 'https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R',
-            showAdAttribution: true,
-            renderLargerThumbnail: true
+            showAdAttribution: false,
+            renderLargerThumbnail: false
         }
     }
 }, { quoted: mek });
